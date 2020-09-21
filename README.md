@@ -1,1 +1,1 @@
-# Data_Sc-Projects
+# Data_Analytics-Projects
